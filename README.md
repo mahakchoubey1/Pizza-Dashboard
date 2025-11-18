@@ -154,7 +154,17 @@ Applying time intelligence (month/year/day analysis)
 
 Turning raw data into actionable insights
 
-🌟 Screenshots
+## 📸 Dashboard Screenshots
+
+### Overview
+![Dashboard Overview](Screenshot 2025-11-18 163802.png)
+
+### Category Analysis
+![Category Analysis](images/category_sales.png)
+
+### Top Pizzas
+![Top Pizzas](images/top_insights.png)
+
 
 
 
