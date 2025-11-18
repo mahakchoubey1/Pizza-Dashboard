@@ -156,23 +156,21 @@ Turning raw data into actionable insights
 
 ## 📸 Dashboard Screenshots
 
-### Overview
-![Dashboard Overview](Screenshot 2025-11-18 163802.png)
+
 
 ### Category Analysis
-![Category Analysis](images/category_sales.png)
+![Category Analysis](https://github.com/mahakchoubey1/Pizza-Dashboard/blob/main/Screenshot%202025-11-18%20163802.png)
 
 ### Top Pizzas
-![Top Pizzas](images/top_insights.png)
+![Top Pizzas](https://github.com/mahakchoubey1/Pizza-Dashboard/blob/main/Screenshot%202025-11-18%201621.png)
 
-
+### Insights
+![Dashboard Insight](https://github.com/mahakchoubey1/Pizza-Dashboard/blob/main/Screenshot%202025-11-18%20163851.png)
 
 
 🗂️ How to Use This Repo
 
 Download the .pbix file
-
-Download the dataset from /data folder (if included)
 
 Open in Power BI Desktop
 
@@ -180,4 +178,5 @@ Explore/modify visuals and DAX calculations
 
 📬 Contact
 
-If you want the .pbix file or want help with your own dashboard, feel free to reach out!
+If you want the .pbix file or want help with your own dashboard, feel free to reach out! 
+
