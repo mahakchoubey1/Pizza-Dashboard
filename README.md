@@ -162,7 +162,7 @@ Turning raw data into actionable insights
 ![Category Analysis](https://github.com/mahakchoubey1/Pizza-Dashboard/blob/main/Screenshot%202025-11-18%20163802.png)
 
 ### Top Pizzas
-![Top Pizzas](https://github.com/mahakchoubey1/Pizza-Dashboard/blob/main/Screenshot%202025-11-18%201621.png)
+![Top Pizzas](https://github.com/mahakchoubey1/Pizza-Dashboard/blob/main/Screenshot%202025-11-18%20163821.png)
 
 ### Insights
 ![Dashboard Insight](https://github.com/mahakchoubey1/Pizza-Dashboard/blob/main/Screenshot%202025-11-18%20163851.png)
